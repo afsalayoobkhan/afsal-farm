@@ -1,4 +1,4 @@
-**Analysis of Emotional States from Farmlet Data**
+**Analysis of QBA Variables from Farmlet Data**
 Project Description
 This project involves analyzing a dataset titled afsal.csv, which contains observations of various emotional states from a farmlet setting. The dataset includes measurements for states such as Active, Relaxed, Fearful, Agitated, Calm, Content, Indifferent, and Frustrated.
 
