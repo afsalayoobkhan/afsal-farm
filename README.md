@@ -12,7 +12,7 @@ The Python scripts provided perform several key analyses:
 Tukey's HSD test for pairwise group comparisons between these states.
 Bar diagram to visualize the average scores of each emotional state along with error bars.
 
-Prerequisites**
+**Prerequisites**
 
 To run this analysis, ensure that you have Python installed along with the following libraries:
 
@@ -22,7 +22,7 @@ matplotlib
 scipy
 These can be installed via pip if not already available:
 
-Copy code
+
 pip install pandas numpy matplotlib scipy
 Running the Analysis
 To run the analysis, follow these steps:
